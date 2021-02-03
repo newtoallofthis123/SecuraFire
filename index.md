@@ -19,7 +19,7 @@ The last ones are your own setups.
 
 **Bold** Links
 
-[On Git hub](https://github.com/newtoallofthis123/SecuraFire) and ![Noob Science](https://duckduckgo.com/?q=lightning%20animated%20symbol&iax=images&ia=images&iai=https://img.favpng.com/0/17/8/lightning-bolt-symbol-clip-art-png-favpng-C6jPbazdGXv6rT8sWjs4m9xpK.jpg&t=ffab)
+[On Git hub](https://github.com/newtoallofthis123/SecuraFire) 
 ```
 
 For more details see [GitHub ](https://github.com/newtoallofthis123/SecuraFire).
