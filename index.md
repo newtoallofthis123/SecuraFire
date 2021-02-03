@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+### SecuraFire
 
-You can use the [editor on GitHub](https://github.com/newtoallofthis123/SecuraFire/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SecuraFire can be used to instantly update a profile with all the best configs and adddons for best privacy and security. Hope you enjoy. It really saves my time each time I create a new profiles. For more info watch my video on Github [Video]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Setup
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+All yo have to do is to unzip the setup.zip file and you get Securafire.exe file.
+run it and select the output folder to your firefox profile. 
 ```markdown
-Syntax highlighted code block
+Firefox Profiles setup will be as follows
 
-# Header 1
-## Header 2
-### Header 3
+##It will be in this syntax
+C:\Users\User\AppData\Roaming\Mozilla\Firefox\Profiles\8uocpxfz.SecuraFirefox
+The last ones are your own setups.
+ Advantages of Securafire
+- Fast
+- Easy
+- Efficient
 
-- Bulleted
-- List
+**Bold** Links
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[On Git hub](https://github.com/newtoallofthis123/SecuraFire) and ![Noob Science](https://duckduckgo.com/?q=lightning%20animated%20symbol&iax=images&ia=images&iai=https://img.favpng.com/0/17/8/lightning-bolt-symbol-clip-art-png-favpng-C6jPbazdGXv6rT8sWjs4m9xpK.jpg&t=ffab)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub ](https://github.com/newtoallofthis123/SecuraFire).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newtoallofthis123/SecuraFire/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+### Included
+10 Addons from [Addons](https://addons.mozilla.org)
+All privacy setting
+All privacytools.io setting [privacytools](privacytools.io)
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Post it on [GitHub](https://github.com/newtoallofthis123/SecuraFire)
+or contact noobscienc123.annexable@slmail.me 
