@@ -9,7 +9,7 @@ SecuraFire can be used to instantly update a profile with all the best configs a
 
 ### The Setup
 
-All you have to do is to unzip the setup.zip file and you get Securafire.exe file.
+All you have to do is to run securafire.exe file.
 run it and select the output folder to your firefox profile. 
 ```markdown
 Firefox Profiles setup will be as follows
