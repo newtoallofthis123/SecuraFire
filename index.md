@@ -1,6 +1,11 @@
-### SecuraFire
+### SecuraFire 
 
 SecuraFire can be used to instantly update a profile with all the best configs and adddons for best privacy and security. Hope you enjoy. It really saves my time each time I create a new profiles. For more info watch my video on Github [Video]()
+
+## Downloads 
+  # Windows10 X64 [Click Here](https://github.com/newtoallofthis123/SecuraFire/releases/download/v0.1-official/securafire.exe)
+  # Manual Application - Without executable- [Click Here](https://github.com/newtoallofthis123/SecuraFire/releases/download/v0.1-official/securafire.zip)
+  # Source Code [Click Here](https://github.com/newtoallofthis123/SecuraFire/archive/v0.1-official.zip)
 
 ### The Setup
 
